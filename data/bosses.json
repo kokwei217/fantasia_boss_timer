@@ -1,0 +1,36 @@
+{
+  "anego": {
+    "name": "anego",
+    "respawnMinutes": 240,
+    "maps": [
+      { "id": "parlor", "name": "Parlor" }
+    ]
+  },
+  "bigfoot": {
+    "name": "Bigfoot",
+    "respawnMinutes": 600,
+    "maps": [
+      { "id": "FP", "name": "FP" },
+      { "id": "TP1", "name": "TP1" },
+      { "id": "TP2", "name": "TP2" },
+      { "id": "TP3", "name": "TP3" },
+      { "id": "TP4", "name": "TP4" },
+      { "id": "TP5", "name": "TP5" },
+      { "id": "ED", "name": "ED"},
+      { "id": "ER", "name": "ER"}    
+    ]
+  },
+  "headless_horseman": {
+    "name": "Headless Horseman",
+    "respawnMinutes": 300,
+    "maps": [
+      { "id": "FP", "name": "FP" },
+      { "id": "CR1", "name": "CR1" },
+      { "id": "CR2", "name": "CR2" },
+      { "id": "CR3", "name": "CR3" },
+      { "id": "HE", "name": "HE" },
+      { "id": "CE", "name": "CE" },
+      { "id": "ED", "name": "ED" }
+    ]
+  }
+}

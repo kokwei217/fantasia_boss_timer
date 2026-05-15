@@ -1,0 +1,312 @@
+{
+  "1498158426725941280": {
+    "1498158426725941280_bigfoot_TP1_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "TP1",
+      "channel": "2",
+      "spawnTime": 1778407200000,
+      "createdAt": 1778323200000
+    },
+    "1498158426725941280_bigfoot_TP1_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "TP1",
+      "channel": "3",
+      "spawnTime": 1778725519375,
+      "createdAt": 1778689519375
+    },
+    "1498158426725941280_bigfoot_TP2_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "TP2",
+      "channel": "1",
+      "spawnTime": 1778711577276,
+      "createdAt": 1778675577276
+    },
+    "1498158426725941280_bigfoot_TP2_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "TP2",
+      "channel": "3",
+      "spawnTime": 1778564362179,
+      "createdAt": 1778528362179
+    },
+    "1498158426725941280_bigfoot_FP_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "FP",
+      "channel": "4",
+      "spawnTime": 1778409300000,
+      "createdAt": 1778323200000
+    },
+    "1498158426725941280_bigfoot_FP_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "FP",
+      "channel": "1",
+      "spawnTime": 1778566691768,
+      "createdAt": 1778530691768
+    },
+    "1498158426725941280_bigfoot_ED_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "ED",
+      "channel": "1",
+      "spawnTime": 1778712951253,
+      "createdAt": 1778676951253
+    },
+    "1498158426725941280_bigfoot_ED_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "ED",
+      "channel": "2",
+      "spawnTime": 1778566933845,
+      "createdAt": 1778530933845
+    },
+    "1498158426725941280_bigfoot_ED_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "ED",
+      "channel": "3",
+      "spawnTime": 1778567197838,
+      "createdAt": 1778531197838
+    },
+    "1498158426725941280_bigfoot_ED_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "ED",
+      "channel": "4",
+      "spawnTime": 1778712583570,
+      "createdAt": 1778676583570
+    },
+    "1498158426725941280_bigfoot_TP5_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "TP5",
+      "channel": "2",
+      "spawnTime": 1778554559657,
+      "createdAt": 1778518559657
+    },
+    "1498158426725941280_bigfoot_TP5_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "TP5",
+      "channel": "1",
+      "spawnTime": 1778439300000,
+      "createdAt": 1778323200000
+    },
+    "1498158426725941280_bigfoot_TP4_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "TP4",
+      "channel": "2",
+      "spawnTime": 1778440500000,
+      "createdAt": 1778436900000
+    },
+    "1498158426725941280_bigfoot_TP2_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "TP2",
+      "channel": "4",
+      "spawnTime": 1778711177135,
+      "createdAt": 1778675177135
+    },
+    "1498158426725941280_bigfoot_TP3_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "TP3",
+      "channel": "4",
+      "spawnTime": 1778727812548,
+      "createdAt": 1778691812548
+    },
+    "1498158426725941280_bigfoot_ER_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "ER",
+      "channel": "4",
+      "spawnTime": 1778553636056,
+      "createdAt": 1778517636056
+    },
+    "1498158426725941280_bigfoot_FP_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "FP",
+      "channel": "3",
+      "spawnTime": 1778442000000,
+      "createdAt": 1778323200000
+    },
+    "1498158426725941280_bigfoot_TP5_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "TP5",
+      "channel": "3",
+      "spawnTime": 1778563093758,
+      "createdAt": 1778527093758
+    },
+    "1498158426725941280_headless_horseman_CR3_ch4": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR3",
+      "channel": "4",
+      "spawnTime": 1778490141775,
+      "createdAt": 1778472141778
+    },
+    "1498158426725941280_headless_horseman_CR1_ch1": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR1",
+      "channel": "1",
+      "spawnTime": 1778490336792,
+      "createdAt": 1778472336792
+    },
+    "1498158426725941280_headless_horseman_HE_ch2": {
+      "bossKey": "headless_horseman",
+      "mapId": "HE",
+      "channel": "2",
+      "spawnTime": 1778490539291,
+      "createdAt": 1778472539291
+    },
+    "1498158426725941280_headless_horseman_HE_ch1": {
+      "bossKey": "headless_horseman",
+      "mapId": "HE",
+      "channel": "1",
+      "spawnTime": 1778490667174,
+      "createdAt": 1778472667174
+    },
+    "1498158426725941280_headless_horseman_CR2_ch3": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR2",
+      "channel": "3",
+      "spawnTime": 1778490822911,
+      "createdAt": 1778472822911
+    },
+    "1498158426725941280_headless_horseman_CR2_ch1": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR2",
+      "channel": "1",
+      "spawnTime": 1778490933496,
+      "createdAt": 1778472933496
+    },
+    "1498158426725941280_headless_horseman_CR1_ch2": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR1",
+      "channel": "2",
+      "spawnTime": 1778511720644,
+      "createdAt": 1778493720645
+    },
+    "1498158426725941280_headless_horseman_CR1_ch3": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR1",
+      "channel": "3",
+      "spawnTime": 1778511836692,
+      "createdAt": 1778493836692
+    },
+    "1498158426725941280_headless_horseman_CR1_ch4": {
+      "bossKey": "headless_horseman",
+      "mapId": "CR1",
+      "channel": "4",
+      "spawnTime": 1778511928715,
+      "createdAt": 1778493928715
+    },
+    "1498158426725941280_headless_horseman_CE_ch4": {
+      "bossKey": "headless_horseman",
+      "mapId": "CE",
+      "channel": "4",
+      "spawnTime": 1778512212676,
+      "createdAt": 1778494212676
+    },
+    "1498158426725941280_headless_horseman_ED_ch4": {
+      "bossKey": "headless_horseman",
+      "mapId": "ED",
+      "channel": "4",
+      "spawnTime": 1778512431412,
+      "createdAt": 1778494431412
+    },
+    "1498158426725941280_headless_horseman_ED_ch2": {
+      "bossKey": "headless_horseman",
+      "mapId": "ED",
+      "channel": "2",
+      "spawnTime": 1778512616965,
+      "createdAt": 1778494616965
+    },
+    "1498158426725941280_headless_horseman_ED_ch1": {
+      "bossKey": "headless_horseman",
+      "mapId": "ED",
+      "channel": "1",
+      "spawnTime": 1778512776812,
+      "createdAt": 1778494776812
+    },
+    "1498158426725941280_bigfoot_ER_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "ER",
+      "channel": "2",
+      "spawnTime": 1778553344962,
+      "createdAt": 1778517344962
+    },
+    "1498158426725941280_bigfoot_ER_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "ER",
+      "channel": "3",
+      "spawnTime": 1778554035149,
+      "createdAt": 1778518035149
+    },
+    "1498158426725941280_bigfoot_FP_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "FP",
+      "channel": "2",
+      "spawnTime": 1778555044009,
+      "createdAt": 1778519044009
+    },
+    "1498158426725941280_bigfoot_TP3_ch3": {
+      "bossKey": "bigfoot",
+      "mapId": "TP3",
+      "channel": "3",
+      "spawnTime": 1778727101779,
+      "createdAt": 1778691101779
+    },
+    "1498158426725941280_bigfoot_TP3_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "TP3",
+      "channel": "1",
+      "spawnTime": 1778729289894,
+      "createdAt": 1778693289894
+    },
+    "1498158426725941280_bigfoot_TP5_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "TP5",
+      "channel": "4",
+      "spawnTime": 1778714107312,
+      "createdAt": 1778678107312
+    },
+    "1498158426725941280_anego_parlor_ch3": {
+      "bossKey": "anego",
+      "mapId": "parlor",
+      "channel": "3",
+      "spawnTime": 1778543487888,
+      "createdAt": 1778529087888
+    },
+    "1498158426725941280_bigfoot_ER_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "ER",
+      "channel": "1",
+      "spawnTime": 1778566325510,
+      "createdAt": 1778530325510
+    },
+    "1498158426725941280_bigfoot_TP4_ch4": {
+      "bossKey": "bigfoot",
+      "mapId": "TP4",
+      "channel": "4",
+      "spawnTime": 1778567870722,
+      "createdAt": 1778531870722
+    },
+    "1498158426725941280_bigfoot_TP4_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "TP4",
+      "channel": "1",
+      "spawnTime": 1778713668926,
+      "createdAt": 1778677668926
+    },
+    "1498158426725941280_bigfoot_TP1_ch1": {
+      "bossKey": "bigfoot",
+      "mapId": "TP1",
+      "channel": "1",
+      "spawnTime": 1778726270588,
+      "createdAt": 1778690270588
+    },
+    "1498158426725941280_bigfoot_TP2_ch2": {
+      "bossKey": "bigfoot",
+      "mapId": "TP2",
+      "channel": "2",
+      "spawnTime": 1778731141085,
+      "createdAt": 1778695141085
+    },
+    "1498158426725941280_anego_parlor_ch1": {
+      "bossKey": "anego",
+      "mapId": "parlor",
+      "channel": "1",
+      "spawnTime": 1778782084741,
+      "createdAt": 1778767684742
+    }
+  }
+}
