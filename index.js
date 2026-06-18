@@ -292,7 +292,7 @@ client.on('interactionCreate', async interaction => {
       let finalDescription;
 
       if (groupByMap) {
-        // Group by map and include spawn times
+        // Group by map and include spawn times using boss-specific map order
         const timersByMap = {};
         filteredTimers.forEach(([_, t]) => {
           if (!timersByMap[t.mapId]) {
@@ -302,7 +302,12 @@ client.on('interactionCreate', async interaction => {
         });
 
         const mapGroups = [];
-        Object.entries(timersByMap).forEach(([mapId, timers]) => {
+        boss.maps.forEach(({ id: mapId }) => {
+          const timers = timersByMap[mapId];
+          if (!timers) return;
+
+          timers.sort((a, b) => Number(a.channel) - Number(b.channel));
+
           const map = boss.maps.find(m => m.id === mapId);
           const mapName = (map && map.name) ? map.name : mapId;
           const lines = timers.map(t => {
